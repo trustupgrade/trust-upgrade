@@ -15,7 +15,11 @@ html{
    
 }
 
-
+.logo{
+    width: 11rem;
+    align-self: center;
+    margin-top: 0.5rem;
+}
 
 ul{
     list-style: none;
