@@ -15,6 +15,10 @@ html{
    
 }
 
+.error{
+    color: red;
+}
+
 .logo{
     width: 11rem;
     align-self: center;
